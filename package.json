@@ -1,0 +1,18 @@
+{
+  "name": "heart",
+  "version": "1.0.0",
+  "description": "heart config ",
+  "main": "index.js",
+  "repository": "https://github.com/heart205/heart205.git",
+  "author": "heart <7362469@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.20.0",
+    "@typescript-eslint/parser": "^5.20.0",
+    "eslint": "^8.14.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.2",
+    "typescript": "^4.6.3"
+  }
+}
