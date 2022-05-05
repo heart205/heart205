@@ -67,3 +67,5 @@ module.exports = {
 }
 // yarn add jest @types/jest
 ```
+
+## jest config 根据 node 或者 browser 自行配置
